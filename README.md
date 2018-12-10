@@ -10,7 +10,7 @@ Enofcado para estuidantes de primaria.
 * Luis Chacón Campos
 * Oscar Pérez Ramírez.
 #### Diseño:
-* Marco Brenes López
+* Mariana Molina Rojas
 #### Contenido:
 *  M.L. Evelyn Araya Fonseca
 * Ph. D. Richard Navarro Garro <br>
