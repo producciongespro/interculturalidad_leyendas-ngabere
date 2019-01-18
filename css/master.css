@@ -21,7 +21,7 @@
   }
 
   .btn-default {
-      background-color: rgb(80,137,118);
+      background-color: rgb(107, 58, 179);
       color: #000;
   }
 .btn-default:hover {
@@ -33,7 +33,7 @@
   }
   .respuestas {
     cursor: pointer;
-    color: rgb(221,234,192);
+    color: rgb(214, 128, 222);
     box-sizing: border-box;
     margin-left: 50%;
 
