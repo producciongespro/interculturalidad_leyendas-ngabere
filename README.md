@@ -1,7 +1,7 @@
 # Leyendas
 
 Recurso para rescatar las leyendas costarricenses.
-Enofcado para estuidantes de primaria.
+Enfocado para estuidantes de primaria.
 
 ### Derechos Reservados Ministerio de Educación Pública de Costa Rica,
 ******* GESPRO;  Octubre 2017 <br>
